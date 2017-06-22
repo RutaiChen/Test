@@ -3,3 +3,4 @@
 today is x.xx,i want eat an apple.
 today is x.xx,i want eat a banana.
 this is a bug.
+this is another bug.
