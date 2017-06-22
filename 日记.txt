@@ -1,2 +1,4 @@
 今天是X月X日，我吃了一个苹果。
+
+today is x.xx,i want eat an apple.
 today is x.xx,i want eat a banana.
